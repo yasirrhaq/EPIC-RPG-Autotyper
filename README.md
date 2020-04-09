@@ -1,4 +1,4 @@
-# EPIC-RPG-Autotyper by Bugon
+# EPIC RPG Autotyper by Bugon
 ![image](https://user-images.githubusercontent.com/41731559/78924055-c331ec00-7acb-11ea-8c44-bb96753eac5c.png)
 
 EPIC RPG Autotyper now can be used for everyone
