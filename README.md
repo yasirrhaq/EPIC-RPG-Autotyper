@@ -1,16 +1,14 @@
-# EPIC RPG Autotyper by Bugon
-![image](https://user-images.githubusercontent.com/41731559/78924055-c331ec00-7acb-11ea-8c44-bb96753eac5c.png)
+# EPIC RPG Autotyper by Yasir Haq
+![image](https://user-images.githubusercontent.com/41731559/78965762-86e4a700-7b30-11ea-8d93-fc5342b8498a.png)
 
 EPIC RPG Autotyper now can be used for everyone
 
-
-
 ##  How to use :
-1. Download the .exe from [here](https://github.com/yasirrhaq/EPIC-RPG-Autotyper/releases/tag/v1.0)
+1. Download the .exe from [here](https://github.com/yasirrhaq/EPIC-RPG-Autotyper/releases/tag/v1.1)
 2. Open it
-3. Choose your command in command 1 - 4
+3. Choose your command in command 1 - 3
 4. After that type how much seconds about that command to be type repeatable
-5. Command 5 - 7 is a custom typing so you can just type anything you want, this is useful for easter events to get bunnies
+5. Command 4 - 6 is a custom typing so you can just type anything you want, this is useful for easter events to get bunnies
 6. Then press start
 
 ## Note : 
