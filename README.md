@@ -15,6 +15,6 @@ EPIC RPG Autotyper now can be used for everyone
 - **USE AT YOUR OWN RISK!!**
 - **I AM NOT RESPONSIBLE IF YOU GET BANNED**
 - If you doesn't wanna use any command you can just leave the value on sec blank or 0, this will make the command not executed
-- ~~**Adventure** will be **auto heal** (before and after going to adventure) to prevent your character dying~~ ADVENTURE REMOVED
+- ~~**Adventure** will be **auto heal** (before and after going to adventure) to prevent your character dying~~ **ADVENTURE REMOVED**
 - ***Remember to check HOURLY to prevent your character going to `jail` and get `BANNED`***
 - This autotyper ***can't work on background*** unfortunately so you need to afk with discord on top and do something in real life :D
