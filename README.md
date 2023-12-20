@@ -1,5 +1,6 @@
-# EPIC RPG Autotyper by Yasir Haq
-![image](https://user-images.githubusercontent.com/41731559/78965762-86e4a700-7b30-11ea-8d93-fc5342b8498a.png)
+# EPIC RPG Autotyper
+![image](https://github.com/leagueplayer24/EPIC-RPG-Autotyper/assets/41731559/432f3153-ee94-4aa2-8820-290b9f6d6839)
+
 
 EPIC RPG Autotyper now can be used for everyone
 
